@@ -1,3 +1,26 @@
+# Responsive Portfolio
+Welcome to my personal portfolio repository! This project is built using Next.js, showcasing my skills, experience, and projects in a clean, modern, and responsive design.
+You can view the live demo of the portfolio here: https://aniketpatil-portfolio.vercel.app/
+
+# Features
+
+•Responsive Design: Fully optimized for all screen sizes, from desktops to mobile devices.
+
+•Dynamic Content: Showcases my skills, projects, experience, and more in an interactive and engaging format.
+
+•Modern Technologies: Developed using Next.js, with efficient routing and optimized performance.
+
+•Fast Loading: Leveraging Next.js' static site generation for a smooth user experience.
+
+# Technologies Used
+•Framework: Next.js
+
+•Styling: CSS and modern design principles
+
+•Deployment: Vercel
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
